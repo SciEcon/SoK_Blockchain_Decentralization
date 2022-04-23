@@ -4,4 +4,4 @@
 
 by *Yulin Liu, Xinshi Ma, and Luyao Zhang**
 
-*names by alphabetical order, *corresponding author*
+*names by alphabetical order, \*corresponding author*
