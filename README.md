@@ -1,4 +1,4 @@
-# Supplementary resources, data and code, for the research article entitled:
+# Supplementary resources, data, and code for the research article entitled:
 
 **"The Decentralization Index of Blockchain Transactions: the Entropy of Token Transfers on Ethereum"** 
 
