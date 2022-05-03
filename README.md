@@ -55,5 +55,6 @@ by *Yulin Liu, Xinshi Ma, and Luyao Zhang**
 | PriceUSD          | USD                | Daily         | The fixed closing price of the asset as of 00:00 UTC the following day                                                              |
 | VtyDayRet30d      | Percent per annum  | Daily         | The 30 day volatility, measured as the standard deviation of the natural log of daily returns over the past 30 days.                |
 | TxTfrValAdjUSD    | USD                | Daily         | The USD value of the sum of native units transferred between distinct addresses that interval removing noise and certain artifacts. |
-| TxTfrCnt          | Number             | Daily         | Daily transaction count                                                                                                             |
+| TxTfrCnt          | Number             | Daily         | Daily transaction count |                                                                                                            
+
 Note: Description of other variables can be found in the [Coinmetrics Docs]( https://docs.coinmetrics.io)
