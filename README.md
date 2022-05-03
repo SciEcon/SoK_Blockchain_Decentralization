@@ -6,7 +6,7 @@ by *Yulin Liu, Xinshi Ma, and Luyao Zhang**
 
 *names by alphabetical order, \*corresponding author*
 
-## Data
+## Data Files
 
 **Decentralization Index of Top DeFi Tokens**
  |   **Name**   | **Token** | **First Observation Date** |  **File Name** |
