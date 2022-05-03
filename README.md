@@ -6,6 +6,8 @@ by *Yulin Liu, Xinshi Ma, and Luyao Zhang**
 
 *names by alphabetical order, \*corresponding author*
 
+# Data
+
 Decentralization Index of Top DeFi Tokens
  |   **Name**   | **Token** | **First Observation Date** |  **File Name** |
  |:------------:|:---------:|:--------------------------:|:--------------:|
@@ -27,3 +29,22 @@ Decentralization Index of Top DeFi Tokens
  | Tornado Cash |    TORN   |         2020-12-18         |  Torn_ent.csv  |
  |   Synthetix  |    SNX    |         2020-05-11         |   Snx_ent.csv  |
  | Nexus Mutual |    NXM    |         2019-05-23         |   Nxm_ent.csv  |
+
+Coinmetrics Market Data
+|   **Name**   | **Token** | **File Name** |
+|:------------:|:---------:|:-------------:|
+|    Bitcoin   |    BTC    |    btc.csv    |
+|   Ethereum   |    ETH    |    eth.csv    |
+|      Dai     |    DAI    |    dai.csv    |
+|      Sai     |    SAI    |    sai.csv    |
+|     Aave     |    AAVE   |  aave_met.csv |
+|   Compound   |    COMP   |  comp_met.csv |
+|     Maker    |    MKR    |  mkr_met.csv  |
+|    Uniswap   |    UNI    |  uni_met.csv  |
+|   Sushiswap  |   SUSHI   | sushi_met.csv |
+|   Balancer   |    BAL    |  bal_met.csv  |
+|     RenVM    |    REN    |  ren_met.csv  |
+|   Synthetix  |    SNX    |  snx_met.csv  |
+| Nexus Mutual |    NXM    |  nxm_met.csv  |
+
+## Data Dictionary
