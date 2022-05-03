@@ -55,6 +55,8 @@ by *Yulin Liu, Xinshi Ma, and Luyao Zhang**
 | val               | N/A      | Daily         | Shannon entropy value of transaction decentralization over the entire day before 00:00 UTC the following day |
 | date              | N/A      | Daily         | The corresponding date index was calculated for                                                              |
 
+Caculated from Google [BigQuery Ethereum dataset token](https://cloud.google.com/blog/products/data-analytics/ethereum-bigquery-public-dataset-smart-contract-analytics) transfers table. 
+
 **Coinmetrics Variables**
 | **Variable Name** | **Unit**           | **Frequency** | **Description**                                                                                                                     |
 |-------------------|--------------------|---------------|-------------------------------------------------------------------------------------------------------------------------------------|
