@@ -48,6 +48,13 @@ by *Yulin Liu, Xinshi Ma, and Luyao Zhang**
 | Nexus Mutual |    NXM    |  nxm_met.csv  |
 
 ## Data Dictionary
+
+**Token Index Variables**
+| **Variable Name** | **Unit** | **Frequency** | **Description**                                                                                              |
+|-------------------|----------|---------------|--------------------------------------------------------------------------------------------------------------|
+| val               | N/A      | Daily         | Shannon entropy value of transaction decentralization over the entire day before 00:00 UTC the following day |
+| date              | N/A      | Daily         | The corresponding date index was calculated for                                                              |
+
 **Coinmetrics Variables**
 | **Variable Name** | **Unit**           | **Frequency** | **Description**                                                                                                                     |
 |-------------------|--------------------|---------------|-------------------------------------------------------------------------------------------------------------------------------------|
