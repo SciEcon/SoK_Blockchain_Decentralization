@@ -48,18 +48,12 @@ by *Yulin Liu, Xinshi Ma, and Luyao Zhang**
 | Nexus Mutual |    NXM    |  nxm_met.csv  |
 
 ## Data Dictionary
-| **Variable**   | **Description**                                                                                                                     |
-|----------------|-------------------------------------------------------------------------------------------------------------------------------------|
-| val            | Value of decentralization index                                                                                                     |
-| date           | Date of index and market variables                                                                                                  |
-| CapMrktCurUSD  | Market capitalization in USD: The sum USD value of the current supply.                                                              |
-| PriceUSD       | The fixed closing price of the asset as of 00:00 UTC the following day                                                              |
-| VtyDayRet30d   | The 30 day volatility, measured as the standard deviation of the natural log of daily returns over the past 30 days.                |
-| TxTfrValAdjUSD | The USD value of the sum of native units transferred between distinct addresses that interval removing noise and certain artifacts. |
-| TxTfrCnt       | Daily transaction count                                                                                                             |
-| ETH_Ret        | 1 day return of Ether                                                                                                               |
-| ETH_Ret7       | 7 day return of Ether                                                                                                               |
-| ETH_Ret14      | 14 day return of Ether                                                                                                              |
-| ETH_Ret21      | 21 day return of Ether                                                                                                              |
-| ETH_Ret30      | 30 day return of Ether                                                                                                              |
-| ETH_PC         | First principle component of all Ether returns: Ret to Ret_30                                                                       |
+**Coinmetrics Variables**
+| **Variable Name** | **Unit**           | **Frequency** | **Description**                                                                                                                     |
+|-------------------|--------------------|---------------|-------------------------------------------------------------------------------------------------------------------------------------|
+| CapMrktCurUSD     | USD                | Daily         | Market capitalization in USD: The sum USD value of the current supply.                                                              |
+| PriceUSD          | USD                | Daily         | The fixed closing price of the asset as of 00:00 UTC the following day                                                              |
+| VtyDayRet30d      | Percent per annum  | Daily         | The 30 day volatility, measured as the standard deviation of the natural log of daily returns over the past 30 days.                |
+| TxTfrValAdjUSD    | USD                | Daily         | The USD value of the sum of native units transferred between distinct addresses that interval removing noise and certain artifacts. |
+| TxTfrCnt          | Number             | Daily         | Daily transaction count                                                                                                             |
+Note: Description of other variables can be found in the [Coinmetrics Docs]( https://docs.coinmetrics.io)
