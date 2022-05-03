@@ -50,7 +50,6 @@ by *Yulin Liu, Xinshi Ma, and Luyao Zhang**
 ## Data Dictionary
 | **Variable**   | **Description**                                                                                                                     |
 |----------------|-------------------------------------------------------------------------------------------------------------------------------------|
-| Variable       | Description                                                                                                                         |
 | val            | Value of decentralization index                                                                                                     |
 | date           | Date of index and market variables                                                                                                  |
 | CapMrktCurUSD  | Market capitalization in USD: The sum USD value of the current supply.                                                              |
