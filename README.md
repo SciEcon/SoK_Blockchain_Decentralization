@@ -1,4 +1,5 @@
-# Supplementary resources, data, and code for the research article:"SoK: Blockchain Decentralization"
+# SoK: Blockchain Decentralization"
+## *Supplementary resources, data, and code*
 
 [![DOI](https://zenodo.org/badge/461721882.svg)](https://zenodo.org/badge/latestdoi/461721882)
 
