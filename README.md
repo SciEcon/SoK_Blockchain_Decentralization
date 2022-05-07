@@ -8,9 +8,9 @@ by *Yulin Liu, Xinshi Ma, and Luyao Zhang**
 
 # Table of Contents
 
-## [Data_Coinmetrics](https://github.com/SciEcon/SoK_Blockchain_Decentralization/tree/main/Data_Coinmetrics)
+## 1. [Data_Coinmetrics](https://github.com/SciEcon/SoK_Blockchain_Decentralization/tree/main/Data_Coinmetrics)
 
-### Table of Data Files: Coinmetrics Market Data
+### 1.1 Table of Data Files: Coinmetrics Market Data
 
 |   **Name**   | **Token** | **File Name** |
 |:------------:|:---------:|:-------------:|
@@ -28,7 +28,7 @@ by *Yulin Liu, Xinshi Ma, and Luyao Zhang**
 |   Synthetix  |    SNX    |  snx_met.csv  |
 | Nexus Mutual |    NXM    |  nxm_met.csv  |
 
-### Data Dictionary: Coinmetrics Market Data
+### 1.2 Data Dictionary: Coinmetrics Market Data
 
 | **Variable Name** | **Unit**           | **Frequency** | **Description**                                                                                                                     |
 |-------------------|--------------------|---------------|-------------------------------------------------------------------------------------------------------------------------------------|
@@ -38,12 +38,12 @@ by *Yulin Liu, Xinshi Ma, and Luyao Zhang**
 | TxTfrValAdjUSD    | USD                | Daily         | The USD value of the sum of native units transferred between distinct addresses that interval removing noise and certain artifacts. |
 | TxTfrCnt          | Number             | Daily         | Daily transaction count |     
 
-## More about Data Source: Coinmetrics Market Data
+### 1.3 More about Data Source: Coinmetrics Market Data
 Description of other variables can be found in the [Coinmetrics Docs]( https://docs.coinmetrics.io)
 
-## [Data_TokenIndex](https://github.com/SciEcon/SoK_Blockchain_Decentralization/tree/main/Data_TokenIndex)
+## 2. [Data_TokenIndex](https://github.com/SciEcon/SoK_Blockchain_Decentralization/tree/main/Data_TokenIndex)
 
-### Table of Data Files: Decentralization Index of Top DeFi Tokens
+### 2.1 Table of Data Files: Decentralization Index of Top DeFi Tokens
 
  |   **Name**   | **Token** | **First Observation Date** |  **File Name** |
  |:------------:|:---------:|:--------------------------:|:--------------:|
@@ -66,19 +66,19 @@ Description of other variables can be found in the [Coinmetrics Docs]( https://d
  |   Synthetix  |    SNX    |         2020-05-11         |   Snx_ent.csv  |
  | Nexus Mutual |    NXM    |         2019-05-23         |   Nxm_ent.csv  |
  
-### Data Dictionary: Decentralization Index of Top DeFi Tokens
+### 2.2 Data Dictionary: Decentralization Index of Top DeFi Tokens
  
  | **Variable Name** | **Unit** | **Frequency** | **Description**                                                                                              |
 |-------------------|----------|---------------|--------------------------------------------------------------------------------------------------------------|
 | val               | N/A      | Daily         | Shannon entropy value of transaction decentralization over the entire day before 00:00 UTC the following day |
 | date              | N/A      | Daily         | The corresponding date index was calculated for    
  
-### More about Data Source: Decentralization Index of Top DeFi Tokens
+### 2.3 More about Data Source: Decentralization Index of Top DeFi Tokens
 
 Caculated from Google [BigQuery Ethereum dataset token](https://cloud.google.com/blog/products/data-analytics/ethereum-bigquery-public-dataset-smart-contract-analytics) transfers table. 
 
 
-## [Code](https://github.com/SciEcon/SoK_Blockchain_Decentralization/tree/main/code)
+## 3. [Code](https://github.com/SciEcon/SoK_Blockchain_Decentralization/tree/main/code)
 
 | **Content** | **URL** |  
 |:---------:|:--------------------------|
