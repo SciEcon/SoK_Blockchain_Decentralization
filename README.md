@@ -80,9 +80,9 @@ Caculated from Google [BigQuery Ethereum dataset token](https://cloud.google.com
 
 ## [Code](https://github.com/SciEcon/SoK_Blockchain_Decentralization/tree/main/code)
 
-   **Parts**   | **Content** | **URL** |  
- |:------------|:---------:|:--------------------------|
- |    Part I   |  Decentralization_Classes|https://github.com/SciEcon/SoK_Blockchain_Decentralization/blob/main/code/Decentralization_Classes.ipynb       |  
- |   Part II |   Top_DeFi_Decentralization_Visualizations |https://github.com/SciEcon/SoK_Blockchain_Decentralization/blob/main/code/Top_DeFi_Decentralization_Visualizations.ipynb |  
- |    Part III |SAI_DAI_Decentralization_Analysis |https://github.com/SciEcon/SoK_Blockchain_Decentralization/blob/main/code/Top_DeFi_Decentralization_Visualizations.ipynb |  
+| **Content** | **URL** |  
+|:---------:|:--------------------------|
+|  Decentralization_Classes|https://github.com/SciEcon/SoK_Blockchain_Decentralization/blob/main/code/Decentralization_Classes.ipynb       |  
+|   Top_DeFi_Decentralization_Visualizations |https://github.com/SciEcon/SoK_Blockchain_Decentralization/blob/main/code/Top_DeFi_Decentralization_Visualizations.ipynb |  
+|SAI_DAI_Decentralization_Analysis |https://github.com/SciEcon/SoK_Blockchain_Decentralization/blob/main/code/Top_DeFi_Decentralization_Visualizations.ipynb |  
 
