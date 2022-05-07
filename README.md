@@ -6,7 +6,7 @@ by *Yulin Liu, Xinshi Ma, and Luyao Zhang**
 
 ![SoK: Blockchain Decentralization](https://github.com/SciEcon/SoK_Blockchain_Decentralization/blob/main/fig9.png)
 
-|   **Name**   | **Token** | 
+|   **Folder*   | **URL** | 
 |:------------|:---------|
 |   Data_Coinmetrics | https://github.com/SciEcon/SoK_Blockchain_Decentralization/tree/main/Data_Coinmetrics |   
 |  Data_TokenIndex | https://github.com/SciEcon/SoK_Blockchain_Decentralization/tree/main/Data_TokenIndex |  
