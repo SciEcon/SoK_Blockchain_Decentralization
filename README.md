@@ -1,5 +1,7 @@
 # Supplementary resources, data, and code for the research article:"SoK: Blockchain Decentralization"
 
+[![DOI](https://zenodo.org/badge/461721882.svg)](https://zenodo.org/badge/latestdoi/461721882)
+
 by *Yulin Liu, Xinshi Ma, and Luyao Zhang**
 
 *names by the alphabetical order, \*corresponding author*
