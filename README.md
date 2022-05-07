@@ -6,6 +6,15 @@ by *Yulin Liu, Xinshi Ma, and Luyao Zhang**
 
 *names by the alphabetical order, \*corresponding author*
 
+|   **Name**   | **Token** | 
+|:------------:|:---------:|
+|   Data_Coinmetrics | https://github.com/SciEcon/SoK_Blockchain_Decentralization/tree/main/Data_Coinmetrics |   
+|  Data_TokenIndex | https://github.com/SciEcon/SoK_Blockchain_Decentralization/tree/main/Data_TokenIndex |  
+|  code |  https://github.com/SciEcon/SoK_Blockchain_Decentralization/tree/main/code |  
+|conference_invitations|https://github.com/SciEcon/SoK_Blockchain_Decentralization/tree/main/conference_invitations | 
+|figures| https://github.com/SciEcon/SoK_Blockchain_Decentralization/tree/main/figures| 
+
+
 # Table of Contents
 
 ## 1. [Coinmetrics Market Data](https://github.com/SciEcon/SoK_Blockchain_Decentralization/tree/main/Data_Coinmetrics)
