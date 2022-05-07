@@ -4,7 +4,7 @@
 
 by *Yulin Liu, Xinshi Ma, and Luyao Zhang**
 
-*names by alphabetical order, \*corresponding author*
+*names by the alphabetical order, \*corresponding author*
 
 ## Data Files
 
