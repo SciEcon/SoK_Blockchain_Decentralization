@@ -6,9 +6,45 @@ by *Yulin Liu, Xinshi Ma, and Luyao Zhang**
 
 *names by the alphabetical order, \*corresponding author*
 
-## Data Files
+# Table of Contents
 
-**Decentralization Index of Top DeFi Tokens**
+## [Data_Coinmetrics](https://github.com/SciEcon/SoK_Blockchain_Decentralization/tree/main/Data_Coinmetrics)
+
+### Table of Data Files: Coinmetrics Market Data
+
+|   **Name**   | **Token** | **File Name** |
+|:------------:|:---------:|:-------------:|
+|    Bitcoin   |    BTC    |    btc.csv    |
+|   Ethereum   |    ETH    |    eth.csv    |
+|      Dai     |    DAI    |    dai.csv    |
+|      Sai     |    SAI    |    sai.csv    |
+|     Aave     |    AAVE   |  aave_met.csv |
+|   Compound   |    COMP   |  comp_met.csv |
+|     Maker    |    MKR    |  mkr_met.csv  |
+|    Uniswap   |    UNI    |  uni_met.csv  |
+|   Sushiswap  |   SUSHI   | sushi_met.csv |
+|   Balancer   |    BAL    |  bal_met.csv  |
+|     RenVM    |    REN    |  ren_met.csv  |
+|   Synthetix  |    SNX    |  snx_met.csv  |
+| Nexus Mutual |    NXM    |  nxm_met.csv  |
+
+### Data Dictionary: Coinmetrics Market Data
+
+| **Variable Name** | **Unit**           | **Frequency** | **Description**                                                                                                                     |
+|-------------------|--------------------|---------------|-------------------------------------------------------------------------------------------------------------------------------------|
+| CapMrktCurUSD     | USD                | Daily         | Market capitalization in USD: The sum USD value of the current supply.                                                              |
+| PriceUSD          | USD                | Daily         | The fixed closing price of the asset as of 00:00 UTC the following day                                                              |
+| VtyDayRet30d      | Percent per annum  | Daily         | The 30 day volatility, measured as the standard deviation of the natural log of daily returns over the past 30 days.                |
+| TxTfrValAdjUSD    | USD                | Daily         | The USD value of the sum of native units transferred between distinct addresses that interval removing noise and certain artifacts. |
+| TxTfrCnt          | Number             | Daily         | Daily transaction count |     
+
+## More about Data Source: Coinmetrics Market Data
+Description of other variables can be found in the [Coinmetrics Docs]( https://docs.coinmetrics.io)
+
+## [Data_TokenIndex](https://github.com/SciEcon/SoK_Blockchain_Decentralization/tree/main/Data_TokenIndex)
+
+### Table of Data Files: Decentralization Index of Top DeFi Tokens
+
  |   **Name**   | **Token** | **First Observation Date** |  **File Name** |
  |:------------:|:---------:|:--------------------------:|:--------------:|
  |     Aave     |    AAVE   |         2020-10-02         |  Aave_ent.csv  |
@@ -29,41 +65,24 @@ by *Yulin Liu, Xinshi Ma, and Luyao Zhang**
  | Tornado Cash |    TORN   |         2020-12-18         |  Torn_ent.csv  |
  |   Synthetix  |    SNX    |         2020-05-11         |   Snx_ent.csv  |
  | Nexus Mutual |    NXM    |         2019-05-23         |   Nxm_ent.csv  |
-
-**Coinmetrics Market Data**
-|   **Name**   | **Token** | **File Name** |
-|:------------:|:---------:|:-------------:|
-|    Bitcoin   |    BTC    |    btc.csv    |
-|   Ethereum   |    ETH    |    eth.csv    |
-|      Dai     |    DAI    |    dai.csv    |
-|      Sai     |    SAI    |    sai.csv    |
-|     Aave     |    AAVE   |  aave_met.csv |
-|   Compound   |    COMP   |  comp_met.csv |
-|     Maker    |    MKR    |  mkr_met.csv  |
-|    Uniswap   |    UNI    |  uni_met.csv  |
-|   Sushiswap  |   SUSHI   | sushi_met.csv |
-|   Balancer   |    BAL    |  bal_met.csv  |
-|     RenVM    |    REN    |  ren_met.csv  |
-|   Synthetix  |    SNX    |  snx_met.csv  |
-| Nexus Mutual |    NXM    |  nxm_met.csv  |
-
-## Data Dictionary
-
-**Token Index Variables**
-| **Variable Name** | **Unit** | **Frequency** | **Description**                                                                                              |
+ 
+### Data Dictionary: Decentralization Index of Top DeFi Tokens
+ 
+ | **Variable Name** | **Unit** | **Frequency** | **Description**                                                                                              |
 |-------------------|----------|---------------|--------------------------------------------------------------------------------------------------------------|
 | val               | N/A      | Daily         | Shannon entropy value of transaction decentralization over the entire day before 00:00 UTC the following day |
-| date              | N/A      | Daily         | The corresponding date index was calculated for                                                              |
+| date              | N/A      | Daily         | The corresponding date index was calculated for    
+ 
+### More about Data Source: Decentralization Index of Top DeFi Tokens
 
 Caculated from Google [BigQuery Ethereum dataset token](https://cloud.google.com/blog/products/data-analytics/ethereum-bigquery-public-dataset-smart-contract-analytics) transfers table. 
 
-**Coinmetrics Variables**
-| **Variable Name** | **Unit**           | **Frequency** | **Description**                                                                                                                     |
-|-------------------|--------------------|---------------|-------------------------------------------------------------------------------------------------------------------------------------|
-| CapMrktCurUSD     | USD                | Daily         | Market capitalization in USD: The sum USD value of the current supply.                                                              |
-| PriceUSD          | USD                | Daily         | The fixed closing price of the asset as of 00:00 UTC the following day                                                              |
-| VtyDayRet30d      | Percent per annum  | Daily         | The 30 day volatility, measured as the standard deviation of the natural log of daily returns over the past 30 days.                |
-| TxTfrValAdjUSD    | USD                | Daily         | The USD value of the sum of native units transferred between distinct addresses that interval removing noise and certain artifacts. |
-| TxTfrCnt          | Number             | Daily         | Daily transaction count |                                                                                                            
 
-Note: Description of other variables can be found in the [Coinmetrics Docs]( https://docs.coinmetrics.io)
+## [Code](https://github.com/SciEcon/SoK_Blockchain_Decentralization/tree/main/code)
+
+   **Parts**   | **Content** | **URL** |  
+ |:------------|:---------:|:--------------------------|
+ |    Part I   |  Decentralization_Classes|https://github.com/SciEcon/SoK_Blockchain_Decentralization/blob/main/code/Decentralization_Classes.ipynb       |  
+ |   Part II |   Top_DeFi_Decentralization_Visualizations |https://github.com/SciEcon/SoK_Blockchain_Decentralization/blob/main/code/Top_DeFi_Decentralization_Visualizations.ipynb |  
+ |    Part III |SAI_DAI_Decentralization_Analysis |https://github.com/SciEcon/SoK_Blockchain_Decentralization/blob/main/code/Top_DeFi_Decentralization_Visualizations.ipynb |  
+
