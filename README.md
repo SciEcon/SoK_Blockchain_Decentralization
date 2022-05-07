@@ -1,10 +1,10 @@
-# Supplementary resources, data, and code for the research article:
-
-**"SoK: Blockchain Decentralization"** 
+# Supplementary resources, data, and code for the research article:"SoK: Blockchain Decentralization"
 
 by *Yulin Liu, Xinshi Ma, and Luyao Zhang**
 
 *names by the alphabetical order, \*corresponding author*
+
+![SoK: Blockchain Decentralization](https://github.com/SciEcon/SoK_Blockchain_Decentralization/blob/main/fig9.png)
 
 |   **Name**   | **Token** | 
 |:------------|:---------|
