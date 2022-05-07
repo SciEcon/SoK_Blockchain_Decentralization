@@ -1,6 +1,6 @@
-## 1. Coinmetrics Data
+## 1. [Coinmetrics Market Data](https://github.com/SciEcon/SoK_Blockchain_Decentralization/tree/main/Data_Coinmetrics)
 
-### 1.1 Table of Data Files: Coinmetrics Market Data
+### 1.1 Table of Data Files
 
 |   **Name**   | **Token** | **File Name** |
 |:------------:|:---------:|:-------------:|
@@ -18,7 +18,7 @@
 |   Synthetix  |    SNX    |  snx_met.csv  |
 | Nexus Mutual |    NXM    |  nxm_met.csv  |
 
-### 1.2 Data Dictionary: Coinmetrics Market Data
+### 1.2 Data Dictionary
 
 | **Variable Name** | **Unit**           | **Frequency** | **Description**                                                                                                                     |
 |-------------------|--------------------|---------------|-------------------------------------------------------------------------------------------------------------------------------------|
@@ -28,5 +28,5 @@
 | TxTfrValAdjUSD    | USD                | Daily         | The USD value of the sum of native units transferred between distinct addresses that interval removing noise and certain artifacts. |
 | TxTfrCnt          | Number             | Daily         | Daily transaction count |     
 
-### 1.3 More about Data Source: Coinmetrics Market Data
+### 1.3 More about Data Source
 Description of other variables can be found in the [Coinmetrics Docs]( https://docs.coinmetrics.io)
