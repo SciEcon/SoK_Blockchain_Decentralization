@@ -5,7 +5,7 @@
 
 by **Luyao Zhang\*<sup>+</sup>, Xinshi Ma<sup>+</sup>, and Yulin Liu\*<sup>+</sup>**
 
-\*: corresponding authors
+\*: joint corresponding authors
 
 <sup>+</sup>: joint first authors
 
