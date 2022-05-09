@@ -3,7 +3,7 @@
 
 [![DOI](https://zenodo.org/badge/461721882.svg)](https://zenodo.org/badge/latestdoi/461721882)
 
-by **Luyao Zhang\*+, Xinshi Ma+, and Yulin Liu\*+**
+by **Luyao Zhang\*<sup>+</sup>, Xinshi Ma+, and Yulin Liu\*+**
 
 \*: corresponding authors
 
