@@ -3,9 +3,10 @@
 
 [![DOI](https://zenodo.org/badge/461721882.svg)](https://zenodo.org/badge/latestdoi/461721882)
 
-by *Yulin Liu, Xinshi Ma, and Luyao Zhang**
+by *Luyao Zhang*+, Xinshi Ma+, and Yulin Liu+**
 
-*names by the alphabetical order, \*corresponding author*
+*corresponding authors
++joint first authors
 
 ![SoK: Blockchain Decentralization](https://github.com/SciEcon/SoK_Blockchain_Decentralization/blob/main/fig9.png)
 
