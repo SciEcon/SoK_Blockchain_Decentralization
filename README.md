@@ -11,7 +11,7 @@ by **Luyao Zhang\*<sup>+</sup>, Xinshi Ma<sup>+</sup>, and Yulin Liu\*<sup>+</su
 
 ![SoK: Blockchain Decentralization](https://github.com/SciEcon/SoK_Blockchain_Decentralization/blob/main/fig9.png)
 
-|   **Folder*   | **URL** | 
+|   **Folder**   | **URL** | 
 |:------------|:---------|
 |   Data_Coinmetrics | https://github.com/SciEcon/SoK_Blockchain_Decentralization/tree/main/Data_Coinmetrics |   
 |  Data_TokenIndex | https://github.com/SciEcon/SoK_Blockchain_Decentralization/tree/main/Data_TokenIndex |  
