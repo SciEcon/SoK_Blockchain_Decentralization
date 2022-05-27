@@ -57,7 +57,7 @@ Description of other variables can be found in the [Coinmetrics Docs]( https://d
 
 ## 2. [Data_TokenIndex](https://github.com/SciEcon/SoK_Blockchain_Decentralization/tree/main/Data_TokenIndex)
 
-### 2.1 Table of Data Files: Decentralization Index of Top DeFi Tokens
+### 2.1 Table of Data Files: Decentralization Index (Shannon Entropy) of Top DeFi Tokens
 
  |   **Name**   | **Token** | **First Observation Date** |  **File Name** |
  |:------------:|:---------:|:--------------------------:|:--------------:|
