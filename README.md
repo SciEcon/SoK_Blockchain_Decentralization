@@ -1,4 +1,5 @@
 # SoK: Blockchain Decentralization
+Paper: arxiv.org/abs/2205.04256
 ## *Supplementary resources, data, and code*
 
 [![DOI](https://zenodo.org/badge/461721882.svg)](https://zenodo.org/badge/latestdoi/461721882)
