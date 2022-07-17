@@ -11,6 +11,7 @@
  |      Dai     |    DAI    |         2019-11-18         |   Dai_ent.csv  |
  |      Sai     |    SAI    |         2017-12-18         |   Sai_ent.csv  |
  |    Liquity   |    LQTY   |         2021-04-05         |  Lqty_ent.csv  |
+ |    Liquity   |    LUSD   |         2021-04-05         |  Lusd_ent.csv  |
  |    Uniswap   |    UNI    |         2020-09-18         |   Uni_ent.csv  |
  |   Sushiswap  |   SUSHI   |         2020-08-26         |  Sushi_ent.csv |
  |   Balancer   |    BAL    |         2020-06-20         |   Bal_ent.csv  |
