@@ -3,7 +3,7 @@
 
 ### 2.1 Table of Data Files
 
- |   **Name**   | **Token** | **First Observation Date** |  **File Name** |
+ |   **Protocol Name**   | **Token** | **First Observation Date** |  **File Name** |
  |:------------:|:---------:|:--------------------------:|:--------------:|
  |     Aave     |    AAVE   |         2020-10-02         |  Aave_ent.csv  |
  |   Compound   |    COMP   |         2020-06-14         |  Comp_ent.csv  |
@@ -24,6 +24,7 @@
  | Tornado Cash |    TORN   |         2020-12-18         |  Torn_ent.csv  |
  |   Synthetix  |    SNX    |         2020-05-11         |   Snx_ent.csv  |
  | Nexus Mutual |    NXM    |         2019-05-23         |   Nxm_ent.csv  |
+ |   Tether     |    USDt   |         2017-11-28         |  Usdt_ent.csv  |
  
 ### 2.2 Data Dictionary
  
