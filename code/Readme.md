@@ -6,4 +6,5 @@
 |   Visualizations for top DeFi Tokens |Google Colab |
 | Econometrics Analysis |Google Colab |
 | Decentralization Index Daily Update | Kaggle |
+| EIP-1559 Analysis | Google Colab |
 
