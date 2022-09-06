@@ -97,9 +97,9 @@ Caculated from Google [BigQuery Ethereum dataset token](https://cloud.google.com
 
 | **Content** |**Section of Paper**| **URL** |
 |:---------|:--------------------------| :--------------------------| 
-|  Decentralization_Classes| |https://github.com/SciEcon/SoK_Blockchain_Decentralization/blob/main/code/Decentralization_Classes.ipynb       |  
-|   Top_DeFi_Decentralization_Visualizations | Section 4.1 |https://github.com/SciEcon/SoK_Blockchain_Decentralization/blob/main/code/Top_DeFi_Decentralization_Visualizations.ipynb |  
-|SAI_DAI_Decentralization_Analysis ||https://github.com/SciEcon/SoK_Blockchain_Decentralization/blob/main/code/Top_DeFi_Decentralization_Visualizations.ipynb |
-|Decentralization Index Daily Update| | https://github.com/SciEcon/SoK_Blockchain_Decentralization/blob/main/code/daily-query.ipynb |
-| EIP-1559 Analysis| |https://github.com/SciEcon/SoK_Blockchain_Decentralization/blob/main/code/EIP1559_Analysis.ipynb|
+| Decentralization_Classes| Section 4: Data and Empirical Analysis  |https://github.com/SciEcon/SoK_Blockchain_Decentralization/blob/main/code/Decentralization_Classes.ipynb       |  
+|   Top_DeFi_Decentralization_Visualizations | Section 4.2: Descriptive Analysis |https://github.com/SciEcon/SoK_Blockchain_Decentralization/blob/main/code/Top_DeFi_Decentralization_Visualizations.ipynb |  
+|SAI_DAI_Decentralization_Analysis | Section 4.3: Predictive Analysis |https://github.com/SciEcon/SoK_Blockchain_Decentralization/blob/main/code/Top_DeFi_Decentralization_Visualizations.ipynb |
+|Decentralization Index Daily Update| N/A | https://github.com/SciEcon/SoK_Blockchain_Decentralization/blob/main/code/daily-query.ipynb |
+| EIP-1559 Analysis|  Section 4.4: Causal Inference |https://github.com/SciEcon/SoK_Blockchain_Decentralization/blob/main/code/EIP1559_Analysis.ipynb|
 
