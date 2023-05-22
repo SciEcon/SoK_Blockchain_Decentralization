@@ -10,5 +10,5 @@
 |Decentralization Index Daily Update| Section 4: Data and Empirical Analysis | Kaggle |
 | EIP-1559 Analysis|  Section 4.4: Causal Inference |Google Colab|
 | Index_Calculation_Sample.ipynb| Appendix  | Jupyter Notebook   |  
-| transaction.csv | Appendix | N/A   |  
+| transaction.csv (sample transaction data) | Appendix | N/A   |  
 
