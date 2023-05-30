@@ -12,13 +12,16 @@ by **Luyao Zhang\*<sup>+</sup>, Xinshi Ma<sup>+</sup>, and Yulin Liu\*<sup>+</su
 
 ![SoK: Blockchain Decentralization](https://github.com/SciEcon/SoK_Blockchain_Decentralization/blob/main/fig9.png)
 
-|   **Folder**   | **URL** | 
+|   **Folder**   | **Contents** | 
 |:------------|:---------|
-|   Data_Coinmetrics | https://github.com/SciEcon/SoK_Blockchain_Decentralization/tree/main/Data_Coinmetrics |   
-|  Data_TokenIndex | https://github.com/SciEcon/SoK_Blockchain_Decentralization/tree/main/Data_TokenIndex |  
-|  code |  https://github.com/SciEcon/SoK_Blockchain_Decentralization/tree/main/code |  
-|conference_invitations|https://github.com/SciEcon/SoK_Blockchain_Decentralization/tree/main/conference_invitations | 
-|figures| https://github.com/SciEcon/SoK_Blockchain_Decentralization/tree/main/figures| 
+|   Data_Coinmetrics | ERC20 Tokens market metrics and data |   
+|  Data_TokenIndex | Decentralization Index (Updated Daily) |  
+|   Data_EIP1559 | EIP1559 adoption data |   
+|  code | Code used to produce analysis in the paper  |  
+|  code_index_tutorial | Sample calculation of Decentralization Index  |  
+| data_index_tutorial  | Ethereum transaction data used in sample calculation  |  
+|conference_invitations| | 
+|figures| | 
 
 
 # Table of Contents
