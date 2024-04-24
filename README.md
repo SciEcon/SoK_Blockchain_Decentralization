@@ -89,13 +89,26 @@ Description of other variables can be found in the [Coinmetrics Docs]( https://d
 |-------------------|----------|---------------|--------------------------------------------------------------------------------------------------------------|
 | val               | N/A      | Daily         | Decentralization Index value of transaction decentralization over the entire day before 00:00 UTC the following day |
 | date              | N/A      | Daily         | The corresponding date index was calculated for    
- 
+
 ### 2.3 More about Data Source: Decentralization Index of Top DeFi Tokens
 
 Caculated from Google [BigQuery Ethereum dataset token](https://cloud.google.com/blog/products/data-analytics/ethereum-bigquery-public-dataset-smart-contract-analytics) transfers table. 
 
+## 3. [Data_EIP1559](https://github.com/SciEcon/SoK_Blockchain_Decentralization/tree/main/Data_EIP1559)
 
-## 3. [Code](https://github.com/SciEcon/SoK_Blockchain_Decentralization/tree/main/code)
+### 3.1 Data Dictionary
+| Variable Name     | Unit             | Frequency  | Description                                                                                           |
+|-------------------|------------------|------------|-------------------------------------------------------------------------------------------------------|
+| block_number      | None             | Per Block  | Unique identifier for each block in the blockchain. Used to reference and access specific blocks.     |
+| all_gpcount       | Count            | Per Block  | Total count of transactions at different gas prices within a specific block or set of blocks.         |
+| all_mfcount       | Count            | Per Block  | Total count of maximum fees associated with transactions in a block.                                  |
+| all_prcount       | Count            | Per Block  | Count of transactions given a priority status, possibly due to higher fees or other criteria.         |
+| legacy_gpcount    | Count            | Per Block  | Count of transactions using the old gas price system.                                                 |
+| timestamp         | Unix Time        | Per Block  | Timestamp indicating when the block was mined, typically recorded in Unix time.                       |
+| lag_timestamp     | Unix Time        | Per Block  | Timestamp of the previous block, used to calculate time intervals between consecutive blocks.         |
+| block_time        | Seconds          | Per Block  | Duration between the current block and the previous block, measured in seconds.                       |
+
+## 4. [Code](https://github.com/SciEcon/SoK_Blockchain_Decentralization/tree/main/code)
 
 | **Content** |**Section of Paper**| **URL** |
 |:---------|:--------------------------| :--------------------------| 
@@ -104,4 +117,7 @@ Caculated from Google [BigQuery Ethereum dataset token](https://cloud.google.com
 |SAI_DAI_Decentralization_Analysis | Section 4.3: Predictive Analysis |https://github.com/SciEcon/SoK_Blockchain_Decentralization/blob/main/code/Top_DeFi_Decentralization_Visualizations.ipynb |
 |Decentralization Index Daily Update| N/A | https://github.com/SciEcon/SoK_Blockchain_Decentralization/blob/main/code/daily-query.ipynb |
 | EIP-1559 Analysis|  Section 4.4: Causal Inference |https://github.com/SciEcon/SoK_Blockchain_Decentralization/blob/main/code/EIP1559_Analysis.ipynb|
+
+
+
 
