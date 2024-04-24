@@ -18,8 +18,7 @@ by **Luyao Zhang\*<sup>+</sup>, Xinshi Ma<sup>+</sup>, and Yulin Liu\*<sup>+</su
 |  Data_TokenIndex | Decentralization Index (Updated Daily) |  
 |   Data_EIP1559 | EIP1559 adoption data |   
 |  code | Code used to produce analysis in the paper  |  
-|  code_index_tutorial | Sample calculation of Decentralization Index  |  
-| data_index_tutorial  | Ethereum transaction data used in sample calculation  |  
+|  tutorial | Sample calculation of Decentralization Index  |  
 |conference_invitations| | 
 |figures| | 
 
