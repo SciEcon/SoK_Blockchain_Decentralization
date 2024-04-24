@@ -1,3 +1,5 @@
+| **Content** | **Run On** |
+|:---------|:--------------------------| 
 | Index_Calculation_Sample.ipynb | Jupyter Notebook   |  
-| transaction.csv (sample transaction data)  | N/A   |  
+| transaction.csv  | (sample transaction data)    |  
 
